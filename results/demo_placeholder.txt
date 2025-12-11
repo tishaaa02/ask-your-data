@@ -1,0 +1,1 @@
+Add demo GIF here (results/demo.gif). Create a 10-15s screen recording of the Streamlit app and save as GIF.

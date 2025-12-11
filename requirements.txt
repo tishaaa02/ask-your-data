@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+plotly
+python-dotenv
+duckdb
+sqlalchemy
+scikit-learn
+pytest
+nbformat
+nbconvert
