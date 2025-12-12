@@ -1,3 +1,5 @@
+[![Streamlit App](https://img.shields.io/badge/Live-App-blue?logo=streamlit)](https://ask-your-data-9ahsbjgpnqq3kdkdnxpwtp.streamlit.app)
+
 # Ask Your Data — Virtual Data Analyst App
 
 **Ask Your Data** is an interactive analytics tool that lets users upload a dataset and ask questions using natural language. The app automatically performs EDA, generates charts, provides plain-English insights, and outputs SQL queries for reproducibility.
@@ -67,6 +69,11 @@ streamlit run demo/app.py
 ## ⚙️ Notes & ethics
 - Avoid including private data in the repo; sample datasets only.
 - If connecting to live LLMs or APIs, keep keys out of source control and use `.env`.
+
+### 🔗 Live Demo  
+Your app is live here:  
+👉 **https://ask-your-data-9ahsbjgpnqq3kdkdnxpwtp.streamlit.app**
+
 
 ---
 
